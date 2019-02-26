@@ -22,7 +22,7 @@ pod '${POD_NAME}'
 
 ## Author
 
-${USER_NAME}, ${USER_EMAIL}
+dashdevs LLC, hello@dashdevs.com
 
 ## License
 
