@@ -17,7 +17,8 @@ There are two reasons for wanting to work on this template, making your own or i
 
 ## Creating library
 
-Command-line command will look like this `lib create {PROJECT_NAME} --template-url=https://github.com/itomych/pod-template`. 
+Command-line command will look like this 
+`pod lib create {PROJECT_NAME} --template-url=https://github.com/itomych/pod-template`. 
 
 ## Best practices
 
