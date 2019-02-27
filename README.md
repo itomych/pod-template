@@ -15,6 +15,10 @@ An opinionated template for creating a Pod with the following features:
 
 There are two reasons for wanting to work on this template, making your own or improving the one for everyone's. In both cases you will want to work with the ruby classes inside the `setup` folder, and the example base template that it works on from inside `template/ios/`. 
 
+## TODO file
+
+All future improvements, features and nice-to-have's should be included in *TODO.md* file as simple unordered list. It should be stored on root level of repo. When feature is implemented, corresponding list item should be ~~crossed out~~. 
+
 ## Creating library
 
 Command-line command will look like this 
